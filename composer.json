@@ -1,14 +1,22 @@
 {
-    "name": "charlottedunois/eventemitter",
+    "name": "sylae/eventemitter",
+	"replace": {
+        "charlottedunois/eventemitter": "self.version"
+    },
     "type": "library",
     "description": "This is an Event Emitter equivalent to Node.js' Event Emitter.",
     "keywords": [ "events", "event", "emitter", "eventemitter" ],
-    "homepage": "https://github.com/CharlotteDunois/EventEmitter",
+    "homepage": "https://github.com/sylae/EventEmitter",
     "license": "Apache-2.0",
     "authors": [
         {
             "name": "Charlotte Dunois",
             "email": "github@charuru.moe"
+        },
+        {
+            "name": "Keira Dueck",
+            "email": "sylae@calref.net",
+            "role": "Maintainer"
         }
     ],
     "require": {
