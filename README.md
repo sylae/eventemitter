@@ -1,4 +1,8 @@
-EventEmitter [![Build Status](https://scrutinizer-ci.com/g/CharlotteDunois/EventEmitter/badges/build.png?b=master)](https://scrutinizer-ci.com/g/CharlotteDunois/EventEmitter/build-status/master)
+EventEmitter 
 ==================
 
 This is an Event Emitter equivalent to Node.js' Event Emitter.
+
+
+# Documentation
+https://sylae.github.io/eventemitter/
